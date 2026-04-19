@@ -32,3 +32,6 @@ IoT Hub, Stream analytics job, Cosmos DB and Storage account.
 
 ## Challenges
 query result was not showing in the blob container!
+## Demo
+
+- **Video Demo:** https://youtu.be/oJfb1SyOBAk
